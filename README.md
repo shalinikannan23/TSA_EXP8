@@ -96,21 +96,29 @@ plt.show()
 ### OUTPUT:
 
 
-![image](https://github.com/user-attachments/assets/afc76f52-6bfa-4657-85b8-df6eb69d67fb)
+<table>
+  <tr>
+    <td style="width:50%">
+      <h3>Original Image</h3>
+      <img src="https://github.com/user-attachments/assets/afc76f52-6bfa-4657-85b8-df6eb69d67fb" style="width:48%; height:auto;">
+    </td>
+    <td style="width:50%">
+      <h3>Moving Average</h3>
+      <img src="https://github.com/user-attachments/assets/6034a007-721d-4645-9b41-c3c2b620f402" style="width:48%; height:auto;">
+    </td>
+  </tr>
+  <tr>
+    <td style="width:50%">
+      <h3>Plot Transform Dataset</h3>
+      <img src="https://github.com/user-attachments/assets/fccc8b91-6477-44db-adf8-8bb63b4f92cf" style="width:48%; height:auto;">
+    </td>
+    <td style="width:50%">
+      <h3>Exponential Smoothing</h3>
+      <img src="https://github.com/user-attachments/assets/b09a3289-8459-48c3-b729-e699fda0784c" style="width:48%; height:auto;">
+    </td>
+  </tr>
+</table>
 
-Moving Average:
-
-![image](https://github.com/user-attachments/assets/6034a007-721d-4645-9b41-c3c2b620f402)
-
-
-Plot Transform Dataset:
-
-![image](https://github.com/user-attachments/assets/fccc8b91-6477-44db-adf8-8bb63b4f92cf)
-
-
-Exponential Smoothing:
-
-![image](https://github.com/user-attachments/assets/b09a3289-8459-48c3-b729-e699fda0784c)
 
 ### RESULT:
 Thus we have successfully implemented the Moving Average Model and Exponential smoothing using python.
